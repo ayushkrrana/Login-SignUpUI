@@ -1,3 +1,3 @@
-# loginpage
+# LOGIN/SIGNUP PAGE
 
  LOGIN/SIGNUP PAGE
